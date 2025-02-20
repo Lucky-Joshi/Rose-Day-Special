@@ -36,10 +36,6 @@ This project creates a beautiful animated flower scene with CSS and JavaScript.
 - You can customize the colors and animation durations by modifying the CSS variables in `style.css`.
 - Add or remove flower elements in `index.html` to change the scene.
 
-## View Flower
-
-You can view the Flower [here](https://lucky-joshi.github.io/Rose-Day-Special/).
-
 ## License
 
 This project is licensed under the MIT License.
